@@ -9,3 +9,15 @@ Cons of Working with Agile:
 Role and responsibilities of Scrum Master vs Product Owner
 A SCRUM master is in charge of all the SCRUM related tasks such as tooling and facilitating sprints and meetings.
 A product Owner is in chareg of the general direction of the team and handles release management as well as stakeholders.
+
+3 types of meetings that happen during sprint cycle? list at least 2 points on what needs to be discussed during each of these meetings.
+Spring planning meeting
+    Determine what to complete in the coming sprint
+    starting the sprint itself
+Daily SCRUM/Standup meeting
+    short, daily meeting during sprint
+    team members discuss work they completed, blockers, and plans for current day.
+Spring Retrospective meeting
+    occurs at the end of the Sprint.
+    Closes the sprint.
+
