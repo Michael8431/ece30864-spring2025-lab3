@@ -21,3 +21,8 @@ Spring Retrospective meeting
     occurs at the end of the Sprint.
     Closes the sprint.
 
+Differentiate between Epic, Story, Bug, and tasks
+Epic is the largest block of issue that exists and can be broken down directly by stories.
+A story is the next one and is a system requirement that is expressed in a few short sentences. These can be broken down into tasks.
+Tasks or subtasks are specific implementation of a story and are the second smallest block and cannot be broken apart.
+Bugs are technically the smallest issues that exist to block certain tasks and by extensions stories.
