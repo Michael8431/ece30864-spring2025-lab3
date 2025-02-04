@@ -5,3 +5,7 @@ Pros of Working with Agile:
 Cons of Working with Agile:
 1. Uses smaller cross functional teams.
 2. More resilient to scope changes in the Project.
+
+Role and responsibilities of Scrum Master vs Product Owner
+A SCRUM master is in charge of all the SCRUM related tasks such as tooling and facilitating sprints and meetings.
+A product Owner is in chareg of the general direction of the team and handles release management as well as stakeholders.
