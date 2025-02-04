@@ -1,0 +1,7 @@
+What are some Pros and Cons of Agile Development (vs non-Agile)? List 2 of each. 
+Pros of Working with Agile:
+1. Allows for adding of constant value to the customer.
+2. Allows for constant collaboration with customers.
+Cons of Working with Agile:
+1. Uses smaller cross functional teams.
+2. More resilient to scope changes in the Project.
